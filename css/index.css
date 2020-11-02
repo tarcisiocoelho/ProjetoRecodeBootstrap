@@ -1,0 +1,25 @@
+.cor-fundo{
+    background-color: rgb(248, 229, 240);
+}
+
+.tam-imagem{
+    width: 40%;
+}
+
+.tam-imagem:hover{
+    width: 50%;
+}
+
+.footer{
+    margin-top: 150px;
+}
+
+.efeito-link p{
+    font-size: 15pt;
+}
+
+.redesocial{
+    margin: 200px;
+    margin-top: 30px;
+    height: 100px;
+}
